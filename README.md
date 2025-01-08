@@ -1,2 +1,1 @@
-
-Final Project of Web Design For Everyone Course
+Introduction to CSS3 Final Assignment
